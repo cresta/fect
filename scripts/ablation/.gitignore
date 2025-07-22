@@ -1,0 +1,8 @@
+*.json
+*.csv
+*.pkl
+**/*.json
+**/*.csv
+**/*.pkl
+__pycache__/
+*.png
