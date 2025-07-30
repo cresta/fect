@@ -1,5 +1,5 @@
 # FECT: Factuality Evaluation of Interpretive AI-Generated Claims in Contact Center Conversation Transcripts
-This respository contains the code and data for FECT (Hagyeong Shin, Binoy Dalal, Iwona Bialynicka-Birula, Navjot Matharu, Ryan Muir, Xingwei Yang, Samuel W. K. Wong)
+This respository contains the code and data and paper for FECT (Hagyeong Shin, Binoy Dalal, Iwona Bialynicka-Birula, Navjot Matharu, Ryan Muir, Xingwei Yang, Samuel W. K. Wong)
 
 ## Abstract
 
