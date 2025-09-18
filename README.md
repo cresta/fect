@@ -17,8 +17,8 @@ by an AI system for analyzing contact center conversations.
 
 - **Conference**: Agentic & GenAI Evaluation KDD
 - **Year**: 2025
-- **DOI**: [DOI link if available]
-- **ArXiv**: [ArXiv link if available]
+- **DOI**: [https://doi.org/10.48550/arXiv.2508.00889](https://doi.org/10.48550/arXiv.2508.00889)
+- **ArXiv**: [https://www.arxiv.org/abs/2508.00889](https://www.arxiv.org/abs/2508.00889)
 
 ## Dataset
 
